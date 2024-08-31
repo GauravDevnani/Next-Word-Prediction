@@ -3,5 +3,5 @@ pandas==2.2.0
 numpy==1.26.3
 tensorflow
 wordcloud
-matplotlib==3.4.3
+matplotlib
 nltk==3.2.4
