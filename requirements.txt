@@ -2,6 +2,6 @@ streamlit==1.8.0
 pandas==2.2.0
 numpy==1.26.3
 tensorflow
-wordcloud==1.8.1
+wordcloud
 matplotlib==3.4.3
 nltk==3.2.4
